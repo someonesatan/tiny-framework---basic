@@ -1,0 +1,11 @@
+{
+  "name": "startApp",
+  "version": "1.0.0",
+  "description": "initial app",
+  "main": "index.js",
+  "author": "smnstn",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.10.2"
+  }
+}
